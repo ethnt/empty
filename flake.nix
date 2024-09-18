@@ -1,0 +1,7 @@
+{
+  description = "empty";
+
+  inputs = { };
+
+  outputs = { ... }: { };
+}
