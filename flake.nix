@@ -3,5 +3,5 @@
 
   inputs = { };
 
-  outputs = { ... }: { };
+  outputs = { ... }: { flakeModule = ./flake-module.nix; };
 }
